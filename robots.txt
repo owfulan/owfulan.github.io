@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://owfulan.github.io/sitemap.html.gz
+Sitemap: https://owfulan.github.io/app/sitemap.html.gz
+Sitemap: https://owfulan.github.io/assets/sitemap.html.gz
+Sitemap: https://owfulan.github.io/css/sitemap.html.gz
+Sitemap: https://owfulan.github.io/data/sitemap.html.gz
+Sitemap: https://owfulan.github.io/includes/sitemap.html.gz
+Sitemap: https://owfulan.github.io/item/sitemap.html.gz
+Sitemap: https://owfulan.github.io/src/sitemap.html.gz
